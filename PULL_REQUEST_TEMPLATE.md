@@ -1,6 +1,6 @@
 # JIRA Links
 
-- [TGB-XXXX](https://example.com)
+- [TGB-XXXX](https://tagboardhq.atlassian.net/browse/TICKET_NUMBER)
 
 ---
 
@@ -23,6 +23,7 @@
   - Branch: `main`
 
 ### **Steps**
+
 1. First Step
 2. Second Step
 
