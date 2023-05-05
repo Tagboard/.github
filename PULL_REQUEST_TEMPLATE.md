@@ -1,6 +1,6 @@
 # JIRA Links
 
-- [TGB-XXXX](https://tagboardhq.atlassian.net/browse/TICKET_NUMBER)
+- [TGB-XXXX](https://tagboardhq.atlassian.net/browse/TGB-XXXX)
 
 ---
 
