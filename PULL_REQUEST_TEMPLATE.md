@@ -1,18 +1,21 @@
-# JIRA Links
+## JIRA Links
 
 - [TGB-XXXX](https://tagboardhq.atlassian.net/browse/TGB-XXXX)
 
----
+## Dependencies
 
-## **Changes**
+- [ ] _Pull Request Link_
 
-- Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+## Changes
 
----
+- _Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
 
-## **Testing**
+## Testing
 
-### **Setup**
+- [ ] Available on staging?
+- [ ] Contains unit tests?
+
+### Setup
 
 - Doppler Config: `dev_stage`
 
@@ -22,11 +25,11 @@
   - Doppler Config: `dev_stage`
   - Branch: `main`
 
-### **Steps**
+### Steps
 
 1. First Step
 2. Second Step
 
-### **Expected Result**
+### Expected Result
 
-- What should happen
+- _What should happen_
