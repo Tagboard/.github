@@ -17,12 +17,12 @@
 
 ### Setup
 
-- Doppler Config: `dev_stage`
+- Doppler Config: `stg_local`
 
 **Dependent Services:**
 
 - `service1`
-  - Doppler Config: `dev_stage`
+  - Doppler Config: `stg_local`
   - Branch: `main`
 
 ### Steps
