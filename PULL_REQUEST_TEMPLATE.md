@@ -1,6 +1,7 @@
-## JIRA Links
+## Ticket Links
 
 - [TGB-XXXX](https://tagboardhq.atlassian.net/browse/TGB-XXXX)
+- [SC-XXXX](https://app.shortcut.com/tagboard/story/XXXX)
 
 ## Changes
 
